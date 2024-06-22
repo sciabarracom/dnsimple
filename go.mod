@@ -1,4 +1,4 @@
-module github.com/caddy-dns/dnsimple
+module github.com/sciabarracom/dnsimple
 
 go 1.18
 
